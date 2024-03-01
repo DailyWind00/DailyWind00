@@ -6,9 +6,13 @@
   - Check out my game projects on [itch.io](https://dailywind.itch.io/).
 
 ## Featured Repositories
-- [Project1](link_to_project1_repo): Brief description.
-- [Project2](link_to_project2_repo): Brief description.
-- [Project3](link_to_project3_repo): Brief description.
+### 42 cursus projects :
+- [libft](https://github.com/DailyWind00/libft): My first static library in C
+- [ft_printf](https://github.com/DailyWind00/ft_printf): Recreate the C function printf 
+- [get_next_line](https://github.com/DailyWind00/get_next_line): A function which read line by line a file
+- [push_swap](https://github.com/DailyWind00/push_swap): Stack sorting
+- [minitalk](https://github.com/DailyWind00/minitalk): A simple server & client program
+- [so_long](https://github.com/DailyWind00/so_long): Small 2D game
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
