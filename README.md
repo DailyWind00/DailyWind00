@@ -6,6 +6,9 @@
   - Check out my game projects on [itch.io](https://dailywind.itch.io/).
 
 ## Featured Repositories
+### Personal projects :
+- 
+
 ### 42 cursus projects :
 - [libft](https://github.com/DailyWind00/libft): My first static library in C
 - [ft_printf](https://github.com/DailyWind00/ft_printf): Recreate the C function printf 
