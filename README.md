@@ -7,8 +7,8 @@
 
 ## Featured Repositories
 ### Personal projects :
-- 
-
+- [itch.io](https://hasyxd.itch.io/descended)
+  
 ### 42 cursus projects :
 - [libft](https://github.com/DailyWind00/libft): My first static library in C
 - [ft_printf](https://github.com/DailyWind00/ft_printf): Recreate the C function printf 
