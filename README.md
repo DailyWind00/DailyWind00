@@ -23,7 +23,7 @@
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
-- Drop me an email at gallaismael0@gmail.com
+- Drop me an email at dailywind.github@gmail.com
 
 ## Support Me
 If you find my projects helpful or interesting, consider buying me a coffee! ☕️
