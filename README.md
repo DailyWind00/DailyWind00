@@ -17,6 +17,10 @@
 - [minitalk](https://github.com/DailyWind00/minitalk): A simple server & client program
 - [so_long](https://github.com/DailyWind00/so_long): Small 2D game
 
+### 🚧 Currently doing :
+- 42 - Minishell
+- 42 - Philosophers
+
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
 - Drop me an email at gallaismael0@gmail.com
