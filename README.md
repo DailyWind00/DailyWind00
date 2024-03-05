@@ -7,7 +7,7 @@
 
 ## Featured Repositories
 ### Personal projects :
-- [itch.io](https://hasyxd.itch.io/descended)
+- [Descended](https://hasyxd.itch.io/descended): Gamejam 42
   
 ### 42 cursus projects :
 - [libft](https://github.com/DailyWind00/libft): My first static library in C
