@@ -27,7 +27,7 @@
 
 ## Support Me
 If you find my projects helpful or interesting, consider buying me a coffee! ☕️
-- [Buy me a coffee](https://www.buymeacoffee.com/dailywind)
+- [Buy me a coffee](https://fr.tipeee.com/dailywind)
 
 ## Thank You!
 Thanks for visiting my GitHub profile. Feel free to explore my repositories and reach out if you have any questions or suggestions.
