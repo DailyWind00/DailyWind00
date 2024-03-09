@@ -16,6 +16,7 @@
 - [push_swap](https://github.com/DailyWind00/push_swap): Stack sorting
 - [minitalk](https://github.com/DailyWind00/minitalk): A simple server & client program
 - [so_long](https://github.com/DailyWind00/so_long): Small 2D game
+- [philosophers](https://github.com/DailyWind00/philosophers): Simulation of the dining philosophers problem
 
 ### 🚧 Currently doing :
 - 42 - Minishell
