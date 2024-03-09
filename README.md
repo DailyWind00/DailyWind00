@@ -20,7 +20,6 @@
 
 ### 🚧 Currently doing :
 - 42 - Minishell
-- 42 - Philosophers
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
