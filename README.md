@@ -33,4 +33,4 @@ If you find my projects helpful or interesting, consider buying me a coffee! ☕
 Thanks for visiting my GitHub profile. Feel free to explore my repositories and reach out if you have any questions or suggestions.
 
  ##
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DailyWind00&theme=omni&hide_border=true&border_radius=15" alt="GitHub Streak" /></a> 
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DailyWind&theme=ambient-gradient&border_radius=50" alt="GitHub Streak" /></a> 
