@@ -21,6 +21,7 @@
 
 ### 🚧 Currently doing :
 - 42 - Cub3D
+- A super secret personal project
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
