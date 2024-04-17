@@ -17,9 +17,10 @@
 - [minitalk](https://github.com/DailyWind00/minitalk): A simple server & client program
 - [so_long](https://github.com/DailyWind00/so_long): Small 2D game
 - [philosophers](https://github.com/DailyWind00/philosophers): Simulation of the dining philosophers problem
+- [minishell](https://github.com/DailyWind00/minishell/tree/main): A simple bash
 
 ### 🚧 Currently doing :
-- 42 - Minishell
+- 42 - Cub3D
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
