@@ -21,6 +21,8 @@
 
 ### 🚧 Currently doing :
 - 42 - Cub3D
+- 42 - C++ modules
+- 42 - Netpractice
 - A super secret personal project
 
 ## Get in Touch
