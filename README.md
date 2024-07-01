@@ -18,9 +18,9 @@
 - [so_long](https://github.com/DailyWind00/so_long): Small 2D game
 - [philosophers](https://github.com/DailyWind00/philosophers): Simulation of the dining philosophers problem
 - [minishell](https://github.com/DailyWind00/minishell/tree/main): A simple bash
+- [cub3D](https://github.com/DailyWind00/Cub3D): A raycaster like Wolfenstein 3D
 
 ### 🚧 Currently doing :
-- 42 - Cub3D
 - 42 - C++ modules
 - 42 - Netpractice
 - A super secret personal project
