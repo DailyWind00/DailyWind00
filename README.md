@@ -20,10 +20,10 @@
 - [philosophers](https://github.com/DailyWind00/philosophers): Simulation of the dining philosophers problem
 - [minishell](https://github.com/DailyWind00/minishell/tree/main): A simple bash
 - [cub3D](https://github.com/DailyWind00/Cub3D): A raycaster like Wolfenstein 3D
+- [netpractice](https://github.com/lpaube/NetPractice): Simulation of a small network
 
 ### 🚧 Currently doing :
 - 42 - C++ modules
-- 42 - Netpractice
 - A super secret personal project
 
 ## Get in Touch
