@@ -26,6 +26,7 @@
 - 42 - C++ modules
 - 42 - ft_irc
 - 42 - Inception
+- 42 - ft_transcendence
 - A super secret personal project
 
 ## Get in Touch
