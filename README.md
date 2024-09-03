@@ -43,4 +43,4 @@ Thanks for visiting my GitHub profile. Feel free to explore my repositories and 
  ##
 ![DailyWind00's GitHub stats](https://github-readme-stats.vercel.app/api?username=DailyWind00&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45)
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DailyWind&theme=ambient-gradient&border_radius=50" alt="GitHub Streak" /></a> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DailyWind00&layout=pie&border_color=d43cd6&border_radius=45)](https://github.com/DailyWind00/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DailyWind00&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45)](https://github.com/DailyWind00/github-readme-stats)
