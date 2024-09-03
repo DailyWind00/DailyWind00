@@ -41,5 +41,5 @@ If you find my projects helpful or interesting, consider buying me a coffee! ☕
 Thanks for visiting my GitHub profile. Feel free to explore my repositories and reach out if you have any questions or suggestions.
 
  ##
+![DailyWind00's GitHub stats](https://github-readme-stats.vercel.app/api?username=DailyWind00&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DailyWind&theme=ambient-gradient&border_radius=50" alt="GitHub Streak" /></a> 
-[![DailyWind00's GitHub stats](https://github-readme-stats.vercel.app/api?username=DailyWind00)](https://github.com/DailyWind00/github-readme-stats)
