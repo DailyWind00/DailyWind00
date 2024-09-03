@@ -42,3 +42,4 @@ Thanks for visiting my GitHub profile. Feel free to explore my repositories and 
 
  ##
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DailyWind&theme=ambient-gradient&border_radius=50" alt="GitHub Streak" /></a> 
+[![DailyWind00's GitHub stats](https://github-readme-stats.vercel.app/api?username=DailyWind00)](https://github.com/DailyWind00/github-readme-stats)
