@@ -43,20 +43,17 @@ If you find my projects helpful or interesting, consider buying me a coffee! ☕
 Thanks for visiting my GitHub profile. Feel free to explore my repositories and reach out if you have any questions or suggestions.
 
  ##
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
-
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DailyWind00&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45" />
-  </div>
-  
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://streak-stats.demolab.com?user=DailyWind&theme=ambient-gradient&border_radius=50" alt="GitHub Streak" />
-  </div>
-
-  <div style="flex-basis: 100%; height: 0;"></div> <!-- For proper alignment -->
-
-  <div style="flex: 1; min-width: 300px; margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DailyWind00&layout=pie&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45" />
-  </div>
-
-</div>
+<table style="width:100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="text-align: center; vertical-align: middle; border: none; padding: 0;">
+      <div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=DailyWind00&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45" style="border: none;" />
+        <br/>
+        <img src="https://streak-stats.demolab.com/?user=DailyWind&theme=ambient-gradient&border_radius=50" alt="GitHub Streak" style="border: none;" />
+      </div>
+    </td>
+    <td style="text-align: center; vertical-align: middle; border: none; padding: 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DailyWind00&layout=pie&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45" style="border: none;" />
+    </td>
+  </tr>
+</table>
