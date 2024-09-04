@@ -30,7 +30,6 @@
 - 42 - ft_irc
 - 42 - Inception
 - 42 - ft_transcendence
-- A super secret personal project
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
@@ -44,7 +43,20 @@ If you find my projects helpful or interesting, consider buying me a coffee! ☕
 Thanks for visiting my GitHub profile. Feel free to explore my repositories and reach out if you have any questions or suggestions.
 
  ##
-![DailyWind00's GitHub stats](https://github-readme-stats.vercel.app/api?username=DailyWind00&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45)
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DailyWind&theme=ambient-gradient&border_radius=50" alt="GitHub Streak" /></a> 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DailyWind00&layout=pie&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45)](https://github.com/DailyWind00/github-readme-stats)
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DailyWind00&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45" />
+  </div>
+  
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <img src="https://streak-stats.demolab.com?user=DailyWind&theme=ambient-gradient&border_radius=50" alt="GitHub Streak" />
+  </div>
+
+  <div style="flex-basis: 100%; height: 0;"></div> <!-- For proper alignment -->
+
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DailyWind00&layout=pie&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45" />
+  </div>
+
+</div>
