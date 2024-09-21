@@ -25,11 +25,11 @@
 - [cub3D](https://github.com/DailyWind00/Cub3D): A raycaster like Wolfenstein 3D
 - [netpractice](https://github.com/lpaube/NetPractice): Simulation of a small network
 - [inception](https://github.com/DailyWind00/Inception/tree/main): Virtualization of docker images
+- [ft_transcendence](https://github.com/DailyWind00/ft_transcendence): Surprise
 
 ### 🚧 Currently doing :
 - 42 - C++ modules
 - 42 - ft_irc
-- 42 - ft_transcendence
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
