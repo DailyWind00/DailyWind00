@@ -30,6 +30,7 @@
 ### 🚧 Currently doing :
 - 42 - C++ modules
 - 42 - ft_irc
+- 42 - Scop
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
