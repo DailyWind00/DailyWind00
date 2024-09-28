@@ -33,7 +33,7 @@
 - 42 - Scop
 
 ## Get in Touch
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/).
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/)
 - Drop me an email at dailywind.github@gmail.com
 
 ## Support Me
