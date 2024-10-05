@@ -3,7 +3,7 @@
 
 |  Nº | Project | Description | Topics | Score | Bonus |
 |-----|---------|-------------|--------|-------|-------|
-|  0  | [CPP 00]() | Getting familiar with C++       | Classes, member fucntions, and some basic stuff.. | 100 | ✅ |
+|  0  | [CPP 00]() | Getting familiar with C++       | Classes, member functions, and some basic stuff.. | 100 | ✅ |
 |  1  | [CPP 01]() | BraiiiiiiinnnzzzZ | New, pointers to members, references, switch statement	 | 100  | ✅ |
 |  2  | [CPP 02]() | My First Orthodox Class      | ad-hoc polymorphism, operator overloading and Orthodox Cononical class form | 100  | ✅ |
 |  3  | [CPP 03]() | Aaaaand... OPEN!      | Inheritance | 80 | ❌ |
