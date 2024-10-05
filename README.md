@@ -13,7 +13,7 @@
 - [My Unreal Engine projects](UEProjects.md)
 - [Descended](https://hasyxd.itch.io/descended): Gamejam 42
   
-### 42 cursus projects :
+### 42 cursus projects : (Finished 🎉)
 - [libft](https://github.com/DailyWind00/libft): My first static library in C
 - [ft_printf](https://github.com/DailyWind00/ft_printf): Recreate the C function printf 
 - [get_next_line](https://github.com/DailyWind00/get_next_line): A function which read line by line a file
