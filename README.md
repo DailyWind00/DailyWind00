@@ -25,6 +25,7 @@
 - [cub3D](https://github.com/DailyWind00/Cub3D): A raycaster like Wolfenstein 3D
 - [netpractice](https://github.com/lpaube/NetPractice): Simulation of a small network
 - [inception](https://github.com/DailyWind00/Inception/tree/main): Virtualization of docker images
+- [ft_irc](https://github.com/DailyWind00/ft_irc/tree/main): An IRC server
 - [ft_transcendence](https://github.com/DailyWind00/ft_transcendence): Surprise
 
 ### 🚧 Currently doing :
