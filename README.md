@@ -13,7 +13,8 @@
 - [My Unreal Engine projects](UEProjects.md)
 - [Descended](https://hasyxd.itch.io/descended): Gamejam 42
   
-### 42 cursus projects : (Finished 🎉)
+### 42 cursus projects :
+#### Common-core : (Finished 🎉)
 - [libft](https://github.com/DailyWind00/libft): My first static library in C
 - [ft_printf](https://github.com/DailyWind00/ft_printf): Recreate the C function printf 
 - [get_next_line](https://github.com/DailyWind00/get_next_line): A function which read line by line a file
@@ -28,6 +29,8 @@
 - [ft_irc](https://github.com/DailyWind00/ft_irc/tree/main): An IRC server
 - [cpp modules](CPP_modules.md)
 - [ft_transcendence](https://github.com/DailyWind00/ft_transcendence): Surprise
+
+#### Speciality :
 
 ### 🚧 Currently doing :
 - 42 - Scop
