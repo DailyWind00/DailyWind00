@@ -19,16 +19,16 @@
 - [ft_printf](https://github.com/DailyWind00/ft_printf): Recreate the C function printf 
 - [get_next_line](https://github.com/DailyWind00/get_next_line): A function which read line by line a file
 - [push_swap](https://github.com/DailyWind00/push_swap): Stack sorting
-- [minitalk](https://github.com/DailyWind00/minitalk): A simple server & client program
-- [so_long](https://github.com/DailyWind00/so_long): Small 2D game
+- [minitalk](https://github.com/DailyWind00/minitalk): Server & client communication using signals
+- [so_long](https://github.com/DailyWind00/so_long): A small 2D game
 - [philosophers](https://github.com/DailyWind00/philosophers): Simulation of the dining philosophers problem
-- [minishell](https://github.com/DailyWind00/minishell/tree/main): A simple bash
+- [minishell](https://github.com/DailyWind00/minishell/tree/main): A simplified bash
 - [cub3D](https://github.com/DailyWind00/Cub3D): A raycaster like Wolfenstein 3D
 - [netpractice](https://github.com/lpaube/NetPractice): Simulation of a small network
 - [inception](https://github.com/DailyWind00/Inception/tree/main): Virtualization of docker images
 - [ft_irc](https://github.com/DailyWind00/ft_irc/tree/main): An IRC server
 - [cpp modules](CPP_modules.md)
-- [ft_transcendence](https://github.com/DailyWind00/ft_transcendence): Surprise
+- [ft_transcendence](https://github.com/DailyWind00/ft_transcendence): Pong in a webapp
 
 #### Speciality :
 
