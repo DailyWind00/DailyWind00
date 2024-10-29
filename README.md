@@ -6,7 +6,7 @@
   - Check out my game projects on [itch.io](https://dailywind.itch.io/).
  
 ##
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,docker,bash,git,godot,unity,unreal," />
+<img src="https://skillicons.dev/icons?i=c,cpp,docker,bash,git,godot,unity,unreal," />
 
 ## Featured Repositories
 ### Personal projects :
