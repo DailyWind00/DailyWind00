@@ -30,7 +30,7 @@
 - [cpp modules](CPP_modules.md)
 - [ft_transcendence](https://github.com/DailyWind00/ft_transcendence): Pong in a webapp
 
-#### Speciality :
+#### Speciality (Graphics & Gaming and C++) :
 - [Scop](https://github.com/DailyWind00/scop): 3D modelisation of an object
 
 ### 🚧 Currently doing :
