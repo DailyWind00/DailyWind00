@@ -30,8 +30,11 @@
 - [cpp modules](CPP_modules.md)
 - [ft_transcendence](https://github.com/DailyWind00/ft_transcendence): Pong in a webapp
 
-#### Speciality (Graphics & Gaming and C++) :
+#### Speciality :
+##### > Graphics & Gaming
 - [Scop](https://github.com/DailyWind00/scop): 3D modelisation of an object
+
+##### > C++ :
 
 ### 🚧 Currently doing :
 - 42 - Particle System
