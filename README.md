@@ -31,9 +31,10 @@
 - [ft_transcendence](https://github.com/DailyWind00/ft_transcendence): Pong in a webapp
 
 #### Speciality :
+- [Scop](https://github.com/DailyWind00/scop): 3D modelisation of an object
 
 ### 🚧 Currently doing :
-- 42 - Scop
+- 42 - Particle System
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/)
