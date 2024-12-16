@@ -37,6 +37,7 @@
 
 ### 🚧 Currently doing :
 - 42 - [Particle System](https://github.com/DailyWind00/Particle-System)
+- 42 - [Piscine Object](https://github.com/DailyWind00/Piscine-Object)
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/)
