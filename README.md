@@ -32,11 +32,11 @@
 #### Speciality :
 ##### > Graphics & Gaming
 - [Scop](https://github.com/DailyWind00/scop): 3D modelisation of an object
+- [Particle System](https://github.com/DailyWind00/Particle-System): Particle-System maker API pre-OpenGL 4.3 compatible
 
 ##### > C++ :
 
 ### 🚧 Currently doing :
-- 42 - [Particle System](https://github.com/DailyWind00/Particle-System)
 - 42 - [Piscine Object](https://github.com/DailyWind00/Piscine-Object)
 
 ## Get in Touch
