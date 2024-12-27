@@ -32,7 +32,7 @@
 #### Speciality :
 ##### > Graphics & Gaming
 - [Scop](https://github.com/DailyWind00/scop): 3D modelisation of an object
-- [Particle System](https://github.com/DailyWind00/Particle-System): Particle-System maker API
+- [Particle System](https://github.com/DailyWind00/Particle-System): Particle-System maker & API
 
 ##### > C++ :
 
