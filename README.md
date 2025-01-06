@@ -37,7 +37,7 @@
 ##### > C++ :
 
 ### 🚧 Currently doing :
-- 42 - [Piscine Object](https://github.com/DailyWind00/Piscine-Object)
+- 42 - [Piscine Object](https://github.com/DailyWind00/Piscine-Object) (2/6 done)
 - 42 - [ft_vox](https://github.com/DailyWind00/ft_vox)
 - Personal - [Game Engine setup](https://github.com/DailyWind00/GameEngine)
 
