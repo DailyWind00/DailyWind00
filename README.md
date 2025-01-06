@@ -38,7 +38,8 @@
 
 ### 🚧 Currently doing :
 - 42 - [Piscine Object](https://github.com/DailyWind00/Piscine-Object)
-- Personal - Game Engine setup
+- 42 - [ft_vox](https://github.com/DailyWind00/ft_vox)
+- Personal - [Game Engine setup](https://github.com/DailyWind00/GameEngine)
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/)
