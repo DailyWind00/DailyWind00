@@ -52,6 +52,8 @@ If you find my projects helpful or interesting, consider buying me a coffee! ☕
 ## Thank You!
 Thanks for visiting my GitHub profile. Feel free to explore my repositories and reach out if you have any questions or suggestions.
 
+Feel free to use my project for your own personal uses, all I ask is credits ! 😎
+
  ##
 <table style="width:100%; border-collapse: collapse; border: none;">
   <tr style="border: none;">
