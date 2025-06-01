@@ -63,7 +63,7 @@ Feel free to use my project for your own personal uses, all I ask is credits ! ð
       </div>
     </td>
     <td style="text-align: center; vertical-align: middle; border: none; padding: 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DailyWind00&layout=pie&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45&exclude_repo=ft_transcendence" style="border: none;" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DailyWind00&layout=pie&show_icons=true&theme=ambient_gradient&border_color=d43cd6&border_radius=45&exclude_repo=ft_transcendence,so_long" style="border: none;" />
     </td>
   </tr>
 </table>
