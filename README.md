@@ -11,6 +11,7 @@
 ## Featured Repositories
 ### Personal projects :
 - [Descended](https://hasyxd.itch.io/descended): Gamejam 42
+- [Game Engine](https://github.com/DailyWind00/GameEngine/tree/main): WIP Game Engine 🌟
   
 ### 42 cursus projects :
 #### Common-core : (Finished 🎉)
@@ -37,7 +38,6 @@
 ### 🚧 Currently doing :
 - 42 - [Piscine Object](https://github.com/DailyWind00/Piscine-Object) (2/6 done)
 - 42 - [ft_vox](https://github.com/DailyWind00/ft_vox)
-- Personal - [Game Engine setup](https://github.com/DailyWind00/GameEngine)
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/)
