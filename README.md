@@ -38,6 +38,7 @@
 ### 🚧 Currently doing :
 - 42 - [Piscine Object](https://github.com/DailyWind00/Piscine-Object) (2/6 done)
 - 42 - [ft_vox](https://github.com/DailyWind00/ft_vox)
+- 42 - [Doom-Nukem](https://github.com/DailyWind00/Doom-Nukem)
 
 ## Get in Touch
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/ma%C3%ABl-gallais-0966022b3/)
