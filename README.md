@@ -1,7 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
 ## About Me
-- 🎓 Currently studying at School 42, where I'm diving deep into C and C++ programming.
 - 🎮 I have a passion for game development and spend my free time creating games & simulations.
   - Check out my game projects on [itch.io](https://dailywind.itch.io/).
  
