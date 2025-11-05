@@ -30,8 +30,7 @@
 - [cpp modules](CPP_modules.md)
 - [ft_transcendence](https://github.com/DailyWind00/ft_transcendence): Pong in a webapp
 
-#### Speciality :
-##### > Graphics & Gaming
+#### Graphics & Gaming :
 - [Scop](https://github.com/DailyWind00/scop): 3D modelisation of an object
 - [Particle-System](https://github.com/DailyWind00/Particle-System): Particle-System creator & renderer
 - [ft_vox](https://github.com/DailyWind00/ft_vox): Dynamic voxel world generation
