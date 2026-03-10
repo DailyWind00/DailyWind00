@@ -4,7 +4,7 @@
 - 🎮 I have a passion for game development and spend my free time creating games & simulations.
   - Check out my game projects on [itch.io](https://dailywind.itch.io/).
 
-> Follow my [Game Studio](https://github.com/Sacred-Flame-Studio) 🌟
+> Follow my [Game Studio](https://linktr.ee/SacredFlameStudio) 🌟
  
 ##
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,docker,bash,git,godot,unity,unreal," />
